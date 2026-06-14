@@ -1,4 +1,4 @@
--- leaked by script haven join for cheapest sources https://discord.gg/xfwA9fNFMe
+-- leaked by script haven join for cheapest sources https://discord.gg/JpfQNMcQj
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
